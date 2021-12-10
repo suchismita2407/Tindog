@@ -1,3 +1,5 @@
+**TINDOG**
+
 A basic website made using HTML, CSS and Bootstrap.
 
 Components used:
